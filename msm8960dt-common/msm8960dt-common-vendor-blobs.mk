@@ -18,10 +18,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960dt-common/proprietary/bin/adspd:system/bin/adspd \
     vendor/motorola/msm8960dt-common/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
     vendor/motorola/msm8960dt-common/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
-    vendor/motorola/msm8960dt-common/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
+    vendor/motorola/msm8960dt-common/proprietary/bin/batt_health:system/bin/batt_health \
     vendor/motorola/msm8960dt-common/proprietary/bin/bootmodem:system/bin/bootmodem \
     vendor/motorola/msm8960dt-common/proprietary/bin/charge_only_mode:system/bin/charge_only_mode \
-    vendor/motorola/msm8960dt-common/proprietary/bin/defuse:system/bin/defuse \
     vendor/motorola/msm8960dt-common/proprietary/bin/diag_klog:system/bin/diag_klog \
     vendor/motorola/msm8960dt-common/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/motorola/msm8960dt-common/proprietary/bin/efsks:system/bin/efsks \
@@ -86,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960dt-common/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so \
-    vendor/motorola/msm8960dt-common/proprietary/lib/libnfcpn544c3_fw.so:system/lib/libnfcpn544c3_fw.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libqdi.so:system/lib/libqdi.so \
